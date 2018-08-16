@@ -4,7 +4,7 @@ import fun
 import os,time
 #browser=webdriver.Chrome()
 #browser.maximize_window()
-#browser.get("http://bibo.viabtc.com:8000/signin/")
+#browser.get("url")
 #ld=fun.diction()
 for k,v in fun.diction().items():
     browser = webdriver.Chrome()
